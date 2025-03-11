@@ -13,7 +13,7 @@ new hash checksum will be completely different from the original. This can show 
 5. This will generate a checksum of some size of bits depending on the hash algorithm selected.
 6. Now, go back to the file and modify it. Run the command in the command prompt. The hash will be completely different.
 
-#Images of output and file
+# Images of output and file
 ![Alt Text](HASHLAB/Screenshot1.png)
 
 ![Alt Text](HASHLAB/Screenshot2.png)
